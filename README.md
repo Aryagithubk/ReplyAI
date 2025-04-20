@@ -1,7 +1,3 @@
-Here’s a more polished version of your **LinkedIn AI Chat Reply Extension** documentation:
-
----
-
 # LinkedIn AI Chat Reply Extension
 
 ## 📌 Overview
@@ -98,6 +94,3 @@ We welcome contributions! Feel free to fork the repository, make improvements, a
 
 🚀 Developed with ❤️ by Krisha Arya
 
----
-
-This cleaned-up version ensures the documentation is more structured and easier to follow.
